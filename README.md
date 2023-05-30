@@ -35,3 +35,4 @@ Selenium: The code relies on the Selenium library to automate web interactions. 
 
 The code assumes that the website structure remains unchanged. If there are any changes to the website's HTML structure or CSS selectors, the code may need to be updated accordingly.
 Use this code responsibly and in compliance with the website's terms of service.
+Confluence's usage of AJAX technology may require additional script execution to interact with elements correctly. Modify the script execution as necessary to handle AJAX interactions.
