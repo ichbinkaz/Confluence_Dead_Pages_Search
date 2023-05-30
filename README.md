@@ -1,6 +1,6 @@
 # Confluence Dead Pages Search
 
-This code utilizes Selenium, a web automation library, to perform automated actions on a website called "conf.dataart.com/spacedirectory". The purpose of the code is to navigate through the pages of the directory, visit each space, and determine if the space is alive or dead based on its title.
+This code utilizes Selenium, a web automation library, to perform automated actions on a website. The purpose of the code is to navigate through the pages of the directory, visit each space, and determine if the space is alive or dead based on its title.
 
 The code reads the username and password from a file called "credentials.txt" and uses them to log in to the website. It then proceeds to iterate through the pages of the directory, visiting each space and checking its title. If the title is "Page Not Found," the space is considered dead, and its link is added to the dead_spaces list. Otherwise, it is considered alive.
 
