@@ -9,7 +9,7 @@ import time
 
 chrome_driver_path = “path_to_your_web_driver”
 
-conf_link =“your_confluence_link_of_pages”
+conf_link = “your_confluence_link_of_pages”
 
 
 # Set up the headless browser options
